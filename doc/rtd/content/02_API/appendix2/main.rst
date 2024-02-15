@@ -1,5 +1,5 @@
 .. _target_appendix2:
-API
+API Reference
 ==================
 
 .. toctree::
