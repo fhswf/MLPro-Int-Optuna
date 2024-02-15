@@ -1,5 +1,5 @@
 .. _target_appendix1:
-A1 - Custom Appendix
+A1 - Example Pool
 ====================
 
 .. toctree::
