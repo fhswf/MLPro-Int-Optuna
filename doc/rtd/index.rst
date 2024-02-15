@@ -55,4 +55,4 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
    :caption: ABOUT
    :glob:
 
-   content/03_About/appendix2/main
+   content/03_About/main
