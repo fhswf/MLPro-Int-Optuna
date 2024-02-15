@@ -37,22 +37,22 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 
 .. toctree::
-   :maxdepth: 3
-   :caption: MLPRO-INT-OPTUNA - EXAMPLE POOL
+   :maxdepth: 2
+   :caption: EXAMPLE POOL
    :glob:
 
-   content/01_Examples/appendix1/main
+   content/01_examples_pool/*
 
 .. toctree::
-   :maxdepth: 3
-   :caption: API
+   :maxdepth: 2
+   :caption: API REFERENCES
    :glob:
 
-   content/02_API/appendix2/main
+   content/02_api_references/*
 
 .. toctree::
-   :maxdepth: 3
-   :caption: ABOUT
+   :maxdepth: 2
+   :caption: ABOUT MLPRO-INT-OPTUNA
    :glob:
 
-   content/03_About/main
+   content/03_about/*
