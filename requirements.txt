@@ -2,6 +2,6 @@ dill
 numpy
 matplotlib
 multiprocess
-mlpro
+mlpro[full]
 optuna
 pandas

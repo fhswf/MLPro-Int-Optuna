@@ -23,9 +23,7 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
    .. code-block:: bash
 
-      pip install mlpro --upgrade
-      pip install hyperopt --upgrade
-      pip install mlpro-int-hyperopt --upgrade
+      pip install mlpro-int-optuna[full] --upgrade
 
 
 **See also**
