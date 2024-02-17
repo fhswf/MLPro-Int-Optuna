@@ -33,6 +33,13 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
    - `Further MLPro extensions <https://mlpro.readthedocs.io/en/latest/content/04_extensions/main.html>`_
    - `MLPro-Int-Optuna on GitHub <https://github.com/fhswf/MLPro-Int-Optuna>`_
 
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: HOME
+
+
+   self
 
 .. toctree::
    :maxdepth: 2
