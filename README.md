@@ -19,4 +19,4 @@ MLPro-Int-Optuna provides wrapper classes that enable the use of selected Optuna
 ### Learn more
 [MLPro - Machine Learning Professional](https://mlpro.readthedocs.io)   
 [MLPro-Int-Optuna - Integration of Optuna into MLPro](https://mlpro-int-optuna.readthedocs.io)   
-[Optuna: Open Source Hyperparameter optimizmation framework](https://optuna.org/)   
+[Optuna: Open Source Hyperparameter optimization framework](https://optuna.org/)   
