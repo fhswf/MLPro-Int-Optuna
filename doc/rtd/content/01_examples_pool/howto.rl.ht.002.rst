@@ -1,5 +1,5 @@
-.. _Howto RL HT 002:
-Howto RL-HT-002: Hyperparameter Tuning using Optuna
+.. _Howto RL HT 001:
+Howto RL-HT-001: Hyperparameter Tuning using Optuna
 ===================================================
 
 **Prerequisites**
@@ -12,7 +12,7 @@ Please install the following packages to run this examples properly:
 
 **Executable code**
 
-.. literalinclude:: ../../../../test/howtos/rl/howto_rl_ht_002_optuna.py
+.. literalinclude:: ../../../../test/howtos/rl/howto_rl_ht_001_optuna.py
 	:language: python
 
 
@@ -113,7 +113,7 @@ Please install the following packages to run this examples properly:
 
 **Cross Reference**
 
-    - :ref:`API Reference - RL Agent <target_api_rl_agents>`
-    - :ref:`API Reference - RL Environments <target_api_rl_env>`
-    - :ref:`API Reference - RL Scenario and Training <target_api_rl_run_train>`
-    - :ref:`API Reference - Machine Learning <target_api_bf_ml>`
+    - `API Reference - RL Agent <https://mlpro.readthedocs.io/en/latest/content/99_appendices/appendix2/sub/core/mlpro_rl/11_agents.html>`_
+    - `API Reference - RL Environments <https://mlpro.readthedocs.io/en/latest/content/99_appendices/appendix2/sub/core/mlpro_rl/01_environments.html>`_
+    - `API Reference - RL Scenario and Training <https://mlpro.readthedocs.io/en/latest/content/99_appendices/appendix2/sub/core/mlpro_rl/21_scenarios_training.html>`_
+    - `API Reference - Machine Learning <https://mlpro.readthedocs.io/en/latest/content/99_appendices/appendix2/sub/core/mlpro_bf/05_layer4_machine_learning.html>`_

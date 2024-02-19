@@ -11,4 +11,4 @@ Optuna
 
 **Cross Reference**
 
-- :ref:`Howto RL HT 002: Hyperparameter Tuning using Optuna <Howto RL HT 002>`
+- :ref:`Howto RL HT 001: Hyperparameter Tuning using Optuna <Howto RL HT 001>`

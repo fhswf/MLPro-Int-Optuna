@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='mlpro_int_optuna',
-version='0.1.3',
+version='0.1.4',
 description='MLPro: Integration Optuna',
 author='MLPro Team',
 author_mail='mlpro@listen.fh-swf.de',

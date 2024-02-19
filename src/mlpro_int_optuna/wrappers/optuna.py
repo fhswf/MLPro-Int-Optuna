@@ -29,7 +29,7 @@ from mlpro.bf.ml import *
 from mlpro.bf.math import *
 from mlpro.bf.various import *
 from mlpro.rl.models import *
-from mlpro.gt.models import *
+from mlpro.gt import *
 import os
 
 
