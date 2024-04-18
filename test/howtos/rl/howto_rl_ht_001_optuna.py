@@ -1,7 +1,7 @@
 ## -------------------------------------------------------------------------------------------------
-## -- Project : MLPro - A Synoptic Framework for Standardized Machine Learning Tasks
-## -- Package : mlpro.rl.examples
-## -- Module  : howto_rl_ht_002_optuna.py
+## -- Project : MLPro - The integrative middleware framework for standardized machine learning
+## -- Package : mlpro_int_optuna
+## -- Module  : howto_rl_ht_001_optuna.py
 ## -------------------------------------------------------------------------------------------------
 ## -- History :
 ## -- yyyy-mm-dd  Ver.      Auth.    Description
