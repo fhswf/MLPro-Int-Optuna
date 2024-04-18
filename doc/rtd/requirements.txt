@@ -1,5 +1,5 @@
-mlpro[full]
-optuna
+mlpro[full]>=1.4.0
+optuna>=3.4.0
 
 sphinxcontrib-napoleon
 sphinx-copybutton

@@ -15,10 +15,11 @@
 ## -- 2023-03-27  1.2.0     DA       Refactoring
 ## -- 2023-09-25  1.2.1     DA       Corrections on logging
 ## -- 2024-02-01  2.0.0     LSB      Migration to new repository
+## -- 2024-04-18  2.1.0     DA       Alignment with MLPro 1.4.0
 ## -------------------------------------------------------------------------------------------------
 
 """
-Ver. 2.0.0 (2024-02-01)
+Ver. 2.1.0 (2024-04-18)
 
 This module demonstrates how to utilize wrapper class for Optuna in RL context.
 
@@ -32,7 +33,7 @@ You will learn:
 
 """
 
-from mlpro.wrappers.optuna import *
+from mlpro_int_optuna import WrHPTOptuna
 from mlpro.rl.pool.envs.bglp import BGLP
 from mlpro.rl import *
 import random

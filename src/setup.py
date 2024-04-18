@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='mlpro_int_optuna',
-version='0.1.4',
+version='1.0.0',
 description='MLPro: Integration Optuna',
 author='MLPro Team',
 author_mail='mlpro@listen.fh-swf.de',
@@ -12,13 +12,8 @@ packages=['mlpro_int_optuna'],
 # Package dependencies for full installation
 extras_require={
     "full": [
-        "dill",
-        "numpy",
-        "matplotlib",
-        "multiprocess",
-        "mlpro",
-        "optuna",
-        "pandas"
+        "mlpro>=1.4.0",
+        "optuna>=3.4.0"
     ],
 },
 
