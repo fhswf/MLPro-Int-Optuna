@@ -19,11 +19,12 @@ in your MLPro applications. The use of these wrappers is illustrated in followin
 
 
 **Preparation**
-   Before running the examples, please install the latest versions of MLPro, Optuna, and MLPro-Int-Optuna as follows:
 
-   .. code-block:: bash
+Before running the examples, please install the latest versions of MLPro, Optuna, and MLPro-Int-Optuna as follows:
 
-      pip install mlpro-int-optuna[full] --upgrade
+.. code-block:: bash
+
+   pip install mlpro-int-optuna[full] --upgrade
 
 
 **See also**
