@@ -17,6 +17,6 @@ Welcome to MLPro-Int-Optuna, an extension to MLPro to integrate the Hyperopt pac
 MLPro-Int-Optuna provides wrapper classes that enable the use of selected Optuna functionalities in your MLPro applications. The use of these wrappers is illustrated in numerous example programs.
 
 ### Learn more
-[MLPro - Machine Learning Professional](https://mlpro.readthedocs.io)   
+[MLPro - The integrative middleware framework for standardized machine learning in Python](https://mlpro.readthedocs.io)   
 [MLPro-Int-Optuna - Integration of Optuna into MLPro](https://mlpro-int-optuna.readthedocs.io)   
 [Optuna: Open Source Hyperparameter optimization framework](https://optuna.org/)   
