@@ -41,7 +41,7 @@ from mlpro.bf.math import *
 from mlpro.bf.systems import *
 from mlpro.bf.plot import *
 from mlpro.bf.ml import *
-from mlpro.bf.data import *
+from mlpro.bf.data import DataStoring
 import random
 from pathlib import Path
 
