@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(name='mlpro_int_optuna',
-version='1.0.0',
+version='1.0.1',
 description='MLPro: Integration Optuna',
 author='MLPro Team',
 author_mail='mlpro@listen.fh-swf.de',
@@ -12,7 +12,7 @@ packages=['mlpro_int_optuna'],
 # Package dependencies for full installation
 extras_require={
     "full": [
-        "mlpro>=1.4.0",
+        "mlpro>=2.1.0",
         "optuna>=3.4.0"
     ],
 },
