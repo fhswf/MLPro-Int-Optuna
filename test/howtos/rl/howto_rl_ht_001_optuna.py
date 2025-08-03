@@ -43,6 +43,7 @@ from mlpro.bf.plot import *
 from mlpro.bf.ml import *
 import random
 from pathlib import Path
+import numpy as np
 
 
 ## -------------------------------------------------------------------------------------------------
