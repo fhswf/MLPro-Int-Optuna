@@ -1,1 +1,1 @@
-from mlpro_int_optuna.wrappers import WrHPTOptuna
+from .wrappers import *

@@ -13,10 +13,11 @@
 ## -- 2022-10-17  1.1.1     SY       Refactoring due to unit test
 ## -- 2024-01-31  2.0.0     LSB      Migrated Optuna to new repo MLPro-Int-Optuna
 ## -- 2024-04-18  2.1.0     DA       Alignment with MLPro 1.4.0
+## -- 2025-08-03  2.1.1     SY       Refactoring
 ## -------------------------------------------------------------------------------------------------
 
 """
-Ver. 2.1.0. (2024-04-18)
+Ver. 2.1.1 (2025-08-03)
 
 This module provides a wrapper class for hyperparameter tuning by reusing Optuna framework.
 
@@ -26,12 +27,17 @@ See also: https://pypi.org/project/optuna/
 
 import optuna
 from mlpro.wrappers import Wrapper
+from mlpro.bf import *
 from mlpro.bf.ml import *
 from mlpro.bf.math import *
+from mlpro.bf.data import *
 from mlpro.bf.various import *
-from mlpro.rl.models import *
+from mlpro.rl import *
 from mlpro.gt import *
 import os
+
+# Export list for public API
+__all__ = ['WrHPTOptuna']
 
 
 ## -------------------------------------------------------------------------------------------------

@@ -36,8 +36,14 @@ You will learn:
 from mlpro_int_optuna import WrHPTOptuna
 from mlpro.rl.pool.envs.bglp import BGLP
 from mlpro.rl import *
+from mlpro.bf import *
+from mlpro.bf.math import *
+from mlpro.bf.systems import *
+from mlpro.bf.plot import *
+from mlpro.bf.ml import *
 import random
 from pathlib import Path
+import numpy as np
 
 
 ## -------------------------------------------------------------------------------------------------

@@ -1,2 +1,2 @@
-mlpro[full] >= 1.4.0
+mlpro[full] >= 2.1.0
 optuna >= 3.4.0
